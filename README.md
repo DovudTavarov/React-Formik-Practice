@@ -24,5 +24,5 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/react-formik-practice.git
+   git clone https://github.com/DovudTavarov/React-Formik-Practice.git
    ```
